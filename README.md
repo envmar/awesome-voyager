@@ -12,7 +12,7 @@ This is a curated list of [**Laravel Voyager**](https://github.com/the-control-g
 
 
 ## Contribution
-Have you found something that make Laravel Voyager more awesome? Make a PR and add it to the list!
+Have you found something that makes Laravel Voyager more awesome? Make a PR and add it to the list!
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ Have you found something that make Laravel Voyager more awesome? Make a PR and a
 - [Packages](#packages)
 - [Articles and Tutorials](#articles-and-tutorials)
 - [Videos and Series](#videos-and-series)
-- [Products build with Voyager](#products-build-with-voyager)
+- [Products Built with Voyager](#products-built-with-voyager)
 
 ## Essentials
 * [Voyager Site](https://laravelvoyager.com)
@@ -37,6 +37,7 @@ Have you found something that make Laravel Voyager more awesome? Make a PR and a
 
 ## Packages
 * [Voyager Hooks](https://github.com/larapack/voyager-hooks)
+* [Voyager Themes](https://github.com/thedevdojo/voyager-themes)
 
 ## Articles and Tutorials
 * [Laravel News's Introduction on Laravel Voyager](https://laravel-news.com/voyager)
@@ -49,6 +50,6 @@ Have you found something that make Laravel Voyager more awesome? Make a PR and a
 * [What is Voyager - Laravel Voyager 0.10](https://devdojo.com/series/laravel-voyager-010/episode/what-is-voyager?ref=mark)
 * [Getting Started With Voyager](https://www.youtube.com/watch?v=G5UmX9aRXV4&list=PL8nVHL94VZ1_uW6pm0pCZbiN2H8oG9W0b)
 
-## Products build with Voyager
+## Products Built with Voyager
 * [Pixel - Premium Download Script](https://devdojo.com/product/pixel?ref=mark)
 * [GeekShop - Geeky Cool Product Site](https://devdojo.com/product/geekshop?ref=mark)
